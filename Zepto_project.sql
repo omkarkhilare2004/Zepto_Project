@@ -1,0 +1,1 @@
+SELECT * FROM sql_project_p1.retail_sales;
